@@ -1,5 +1,9 @@
-## Hi there 👋
+## Olá, aqui é o Igor Ventura 👋
+### Bem vindo ao meu novo espaço ;)
 
+- 🔭 Freelancer mas estou em busca de novos desafios
+- 🌱 Estudando AI Engineer e me preparando para Databricks Data Engineer Associate (DEA)
+  
 <!--
 **igorqv/igorqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
