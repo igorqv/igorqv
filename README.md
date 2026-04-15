@@ -1,19 +1,23 @@
-## Olá, aqui é o Igor Ventura 👋
-### Bem vindo ao meu novo espaço ;)
+# Olá, aqui é o Igor Ventura 👋 Sou Data Engineer 
+## Bem vindo ao meu novo espaço ;) 
 
 - 🔭 Freelancer mas estou em busca de novos desafios
 - 🌱 Estudando AI Engineer e me preparando para Databricks Data Engineer Associate (DEA)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorqv&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorqv&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorqv&show_icons=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorqv&commits_year=2026)
+<div style="display: inline_block"><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorqv&show_icons=true&theme=radical)
+<img align="center" alt="IQV-Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg">
+</div>
+  
+  ##
+ 
+<div> 
+
+  <a href="https://www.linkedin.com/in/iqueiroz90/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
   
 <!--
 **igorqv/igorqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
