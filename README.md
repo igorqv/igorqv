@@ -8,7 +8,18 @@
 
 <div style="display: inline_block"><br>
 
+<img align="center" alt="IQV-Azure" height="30" width="40" src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg">
+
 <img align="center" alt="IQV-Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg">
+
+<img align="center" alt="IQV-SqlServer" height="30" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg">
+
+<img align="center" alt="IQV-Postgres" height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg">
+
+<img align="center" alt="IQV-github" height="30" width="40" src="https://devicon-website.vercel.app/api/github/original-wordmark.svg">
+
+<img align="center" alt="IQV-databricks" height="30" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
+
 </div>
   
   ##
@@ -16,20 +27,9 @@
 <div> 
 
   <a href="https://www.linkedin.com/in/iqueiroz90/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
   
 </div>
   
-<!--
-**igorqv/igorqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
