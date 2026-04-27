@@ -3,7 +3,7 @@
 ## Bem vindo ao meu novo espaço ;)
 
 ### ![Brasil](flag-br.png) Brasil - SP
-🇧🇷
+🇧🇷 :bandeira-brasil:
 
 - 🔭 Freelancer mas estou em busca de novos desafios
 - 🌱 Estudando AI Engineer e me preparando para Databricks Data Engineer Associate (DEA)
