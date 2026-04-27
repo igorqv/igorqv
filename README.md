@@ -23,10 +23,10 @@
   
 ## GitHub stats
 
-<p align="left">
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=igorqv&show_icons=true&theme=drakula"/>
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorqv&layot=compact&theme=drakula"/>
- </p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igorqv&show_icons=true&theme=drakula)
+
+ ![Linguagens do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=igorqv&layot=compact&theme=drakula)
+
 
 
 
