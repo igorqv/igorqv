@@ -2,11 +2,10 @@
 
 ## Bem vindo ao meu novo espaço ;)
 
-### ![Brasil](flag-br.png) Brasil - SP
-🇧🇷 :bandeira-brasil:
+### 🇧🇷 Brasil - SP
 
-- 🔭 Freelancer mas estou em busca de novos desafios
-- 🌱 Estudando AI Engineer e me preparando para Databricks Data Engineer Associate (DEA)
+- 👷 Freelancer mas estou em busca de novos desafios
+- 📚 Estudando AI Engineer e me preparando para Databricks Data Engineer Associate (DEA)
 
 
 
@@ -22,7 +21,19 @@
   <img align="center" alt="IQV-qdrant" height="30" width="40" src="https://github.com/pheralb/svgl/blob/main/static/library/qdrant-wordmark-dark.svg?short_path=58e2709">
 </div>
   
-  ##
+## GitHub stats
+
+<p align="left">
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=igorqv&show_icons=true&theme=drakula"/>
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorqv&layot=compact&theme=drakula"/>
+ </p>
+
+
+
+
+
+
+## Contato
  
 <div> 
 
