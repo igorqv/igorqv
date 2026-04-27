@@ -11,15 +11,15 @@
 ## 💻 Experiência
 
 <div style="display: flex;">
-  <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="30" width="40"  />
-  <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" height="30" width="40"  />
-  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" height="30" width="40"  />
-  <img rc="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%2300A3FF" height="30" width="40" s />
-  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="30" width="40"  />
-  <img height="30" width="40" src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%2300A3FF" />
-  <img height="30" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
-  <img height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg?color=%23FFDE00" />
-  <img height="30" width="40" src="https://github.com/pheralb/svgl/blob/main/static/library/qdrant-wordmark-dark.svg?short_path=58e2709" />
+  <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="15" width="15"  />
+  <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" height="15" width="15"  />
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" height="15" width="15"  />
+  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%2300A3FF" height="15" width="15" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="15" width="15" />
+  <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%2300A3FF" height="15" width="15"  />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="15" width="15"  />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg?color=%23FFDE00" height="15" width="15"  />
+  <img src="https://github.com/pheralb/svgl/blob/main/static/library/qdrant-wordmark-dark.svg?short_path=58e2709" height="15" width="15"  />
 </div>
 com experiência em projetos:
 
