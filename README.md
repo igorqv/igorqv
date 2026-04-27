@@ -11,11 +11,11 @@
 ## 💻 Experiência
 
 <div style="display: flex;">
-  <img height="30" width="40" src="https://devicon-website.vercel.app/api/linux/original.svg" />
-  <img height="30" width="40" src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" />
-  <img height="30" width="40" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" />
-  <img height="30" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%2300A3FF" />
-  <img height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" />
+  <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="30" width="40"  />
+  <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" height="30" width="40"  />
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" height="30" width="40"  />
+  <img rc="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%2300A3FF" height="30" width="40" s />
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="30" width="40"  />
   <img height="30" width="40" src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%2300A3FF" />
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg?color=%23FFDE00" />
