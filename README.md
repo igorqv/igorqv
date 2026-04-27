@@ -1,5 +1,8 @@
-# Olá, aqui é o Igor Ventura 👋 Sou Data Engineer 
-## Bem vindo ao meu novo espaço ;) 
+# Olá, aqui é o Igor Ventura 👋 Sou Data Engineer com experiencia comprovada em DW (modelagem e Adm), Banco de dados (MS SQL, Postgres), ETL com as ferramentas (Alteryx, SSIS, Talend, ODI, PowerCenter), Databricks, Cloud Azure.
+
+## Bem vindo ao meu novo espaço ;)
+
+### ![Brasil](image.png) Brasil - SP
 
 - 🔭 Freelancer mas estou em busca de novos desafios
 - 🌱 Estudando AI Engineer e me preparando para Databricks Data Engineer Associate (DEA)
