@@ -23,20 +23,27 @@
 </div>
 Com experiência em projetos:
 
-BI: 
+BI->
 
   DW: modelagem Star Schema e Adm de ambiente;
+
   Banco de dados: MS SQL Server ( Adm e T-SQL), Oracle e Postgres;
+  
   ETL com as ferramentas: Alteryx, SSIS, Talend, ODI, PowerCenter; 
+  
   Visualização: Power BI e Tableau.
   
-Data Enginer: 
+Data Enginer->
  
   Cloud: Azure;
+  
   Arquitetura: Medalhão (bronze, silver e gold) no Databricks e Synapse.
+
+  Databricks: Construção de pipeline, manutenção, orquestração de job e permissão de acesso no Unity Catalog.
+
   Exemplos de pipeline:
    1 -Processo Batch dos pipeline diario para dados de vendas: 
-   NiFi extraid dados ERP -> Envia parquet para o Blob -> Databricks   transforma e envia para Synapse para ser consumido por BI e aeras de negocio;
+   NiFi extraid dados ERP -> Envia parquet para o Blob -> Databricks transforma e envia para Synapse para ser consumido por BI e aeras de negocio;
 
    2 -Processo Batch dos pipeline por demanda para envio de arquivo inteligencia de negocio: 
    Area de negocio solicita envio de dados para SFTP externo -> Processo de carga via Talend Onprime dentro do DW (Stg, ODS e DM), para extrair dados de bases e transformar e gerar um arquivo CSV no servidor de DW -> Data Factory acessa o servidor OnPrime, cria o fluxo para enviar o arquivo CSV via SFTP o cliente.
