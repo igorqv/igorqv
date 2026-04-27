@@ -23,9 +23,10 @@
   
 ## GitHub stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igorqv&show_icons=true&theme=drakula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igorqv&show_icons=true&theme=dracula)
 
- ![Linguagens do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=igorqv&layot=compact&theme=drakula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorqv&layout=compact&theme=dracula)]
 
 
 
