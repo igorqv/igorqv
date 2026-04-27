@@ -11,25 +11,27 @@
 ## 💻 Experiência
 
 <div style="display: flex;">
-  <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="15" width="15"  />
-  <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" height="15" width="15"  />
-  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" height="15" width="15"  />
-  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%2300A3FF" height="15" width="15" />
-  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="15" width="15" />
-  <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%2300A3FF" height="15" width="15"  />
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="15" width="15"  />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg?color=%23FFDE00" height="15" width="15"  />
-  <img src="https://github.com/pheralb/svgl/blob/main/static/library/qdrant-wordmark-dark.svg?short_path=58e2709" height="15" width="15"  />
+  <img src="https://devicon-website.vercel.app/api/linux/original.svg" height="30" width="30"  />
+  <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" height="30" width="30"  />
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" height="30" width="30"  />
+  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%2300A3FF" height="30" width="30" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" height="30" width="30" />
+  <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%2300A3FF" height="30" width="30"  />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="30" width="30"  />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg?color=%23FFDE00" height="30" width="30"  />
+  <img src="https://github.com/pheralb/svgl/blob/main/static/library/qdrant-wordmark-dark.svg?short_path=58e2709" height="30" width="30"  />
 </div>
-com experiência em projetos:
+Com experiência em projetos:
 
 BI: 
+
   DW: modelagem Star Schema e Adm de ambiente;
   Banco de dados: MS SQL Server ( Adm e T-SQL), Oracle e Postgres;
   ETL com as ferramentas: Alteryx, SSIS, Talend, ODI, PowerCenter; 
   Visualização: Power BI e Tableau.
   
 Data Enginer: 
+ 
   Cloud: Azure;
   Arquitetura: Medalhão (bronze, silver e gold) no Databricks e Synapse.
   Exemplos de pipeline:
